@@ -24,3 +24,7 @@ This script performs the following tasks:
 3. Applies LoRA (Low-Rank Adaptation) for optimized fine-tuning of the model.
 4. Fine-tunes the LLM model using the scraped FAQs data.
 5. Creates a chatbot interface using Gradio that generates responses to user input based on the fine-tuned model.
+
+### Demo
+
+![](https://github.com/cdy3870/FAQ-BOT/blob/main/demo.gif)
