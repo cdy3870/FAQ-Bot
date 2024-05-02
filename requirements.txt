@@ -1,0 +1,9 @@
+bitsandbytes
+torch
+transformers
+pandas
+loralib
+datasets
+accelerate
+scipy
+peft
